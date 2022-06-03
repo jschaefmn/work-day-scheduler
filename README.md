@@ -11,4 +11,4 @@
 ### Links and Screenshot of Deployed Application
 - Link: https://jschaefmn.github.io/work-day-scheduler/
 
-<img src=".assets/images/work-day-scheduler-sc.png">
+<img src="./assets/images/work-day-scheduler-sc.png">
